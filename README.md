@@ -1,4 +1,4 @@
-## Hi there 👋
+## oi , estou aprendendo continuamente e cada vez mais dentro desse mundo incrível!
 
 <!--
 **FiipIAdev/FiipIAdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
